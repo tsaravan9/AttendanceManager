@@ -5,4 +5,6 @@
 	<string name="create_account">No account yet? Create one</string>
 	<string name="login">Login</string>
 	<string name="logo_image">logo_image</string>
+	<string name="confirm_password">Confirm password</string>
+	<string name="sign_up">Sign Up</string>
 </resources>
