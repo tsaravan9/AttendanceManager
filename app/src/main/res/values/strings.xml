@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Attendance Manager</string>
+	<string name="username_et">Username</string>
+	<string name="password_et">Password</string>
+	<string name="create_account">No account yet? Create one</string>
+	<string name="login">Login</string>
+	<string name="logo_image">logo_image</string>
+</resources>
