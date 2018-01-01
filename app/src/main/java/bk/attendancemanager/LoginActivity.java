@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import bk.attendancemanager.HomeActivityAndFragments.HomeActivity;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -14,7 +15,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void initiateLogin(View view) {
-
+        startActivity(new Intent(this, HomeActivity.class));
     }
 
     public void startSignUp(View view) {
